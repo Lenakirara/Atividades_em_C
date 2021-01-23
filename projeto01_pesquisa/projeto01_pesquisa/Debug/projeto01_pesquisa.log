@@ -1,6 +1,0 @@
-﻿  Origem.cpp
-C:\Users\lena\source\repos\projeto01_pesquisa\projeto01_pesquisa\Origem.cpp(48,20): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
-C:\Users\lena\source\repos\projeto01_pesquisa\projeto01_pesquisa\Origem.cpp(49,22): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
-C:\Users\lena\source\repos\projeto01_pesquisa\projeto01_pesquisa\Origem.cpp(50,16): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
-C:\Users\lena\source\repos\projeto01_pesquisa\projeto01_pesquisa\Origem.cpp(51,16): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
-  projeto01_pesquisa.vcxproj -> C:\Users\lena\source\repos\projeto01_pesquisa\Debug\projeto01_pesquisa.exe
