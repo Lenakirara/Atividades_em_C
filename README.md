@@ -11,7 +11,3 @@
 do tipo INT que armazena 1 (para SIM) e 2 (para NÃO). </p>
 
 2. Para cada um dos consumidores de energia elétrica de uma cidade é informado o úmero da conta e o total de KW consumido no mês. Sabendo-se que o custo do KW é de R$ 1,75, fazer um algoritmo para: Armazenar e listar o número da conta, o total de KW consumidos e o valor a pagar de cada consumir  cadastrado; Listar o número da conta, o total de KW consumidos e o valor a pagar do consumidor que  mais gastou e o que menos gastou; Mostrar a média de consumo da cidade; Mostrar o número de   consumidores que ultrapassaram o consumo de 170 KW; Armazene as informações em estruturas de vetores e/ou matrizes. Na tela, deve existir um MENU que pergunta ao usuário se ele deseja cadastrar um novo consumidor ou listar alguma informação (maior, menor, média, etc.). 
-
-3. Dizemos que uma matriz quadrada inteira é um quadrado mágico se a soma dos elementos de cada linha, a soma dos elementos de cada coluna e a soma dos elementos das diagonais principal e secundária são todas iguais. Dada uma matriz quadrada dimensão MxM, verifique se ela é um quadrado mágico através de um algoritmo. 
-
-
