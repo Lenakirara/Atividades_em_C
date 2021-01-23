@@ -1,7 +1,17 @@
 # Atividades em C
 
-### Atividade proposta durante o curso de Linguagem de programação - UNINTER
+### Atividade proposta durante o curso de Lógica de programação - UNINTER
 
-1. Suponha que você está fazendo uma pesquisa de preços para a compra de um tablet. Para auxiliá-lo, escreva um programa, em linguagem C, que permite o cadastro de 15 registros. Cada registro contendo o nome de uma loja, o seu telefone, e o preço do tablet naquela loja. O programa deve calcular a média dos preços encontrados e mostrar uma relação contendo o nome e o telefone das lojas que tinham o tablet com preço abaixo da média. Faça um menu permitindo o usuário escolher inserir, excluir, informar melhores preços e sair.
+1. Uma certa empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou não do seu último produto lançado. Para isto, coletou o sexo do entrevistado e a sua resposta (sim ou não). Sabendo que foram entrevistadas 150 pessoas, fazer um algoritmo que calcule e mostre ao final:
+- O número de pessoas que responderam sim;
+- O número de pessoas que responderam não;
+- A percentagem de pessoas do sexo feminino que responderam sim;
+- A percentagem de pessoas do sexo masculino que responderam não;
+<p>Para a resposta SIM/NÃO. Utilize uma variável do tipo CHAR, que armazena S ou N, ou use uma variável
+do tipo INT que armazena 1 (para SIM) e 2 (para NÃO). </p>
 
-2. Aproveitando o Exercício 1, adicione a opção de [S] Salvar em arquivo CSV. Quando acionada essa opção deve ser salvo todos os registros em um arquivo chamado. Como este é um arquivo csv(do inglês "Character-separated values") devemos escolher um separador(delimitador) para os seus valores. O separador escolhido é o “;”.
+2. Para cada um dos consumidores de energia elétrica de uma cidade é informado o úmero da conta e o total de KW consumido no mês. Sabendo-se que o custo do KW é de R$ 1,75, fazer um algoritmo para: Armazenar e listar o número da conta, o total de KW consumidos e o valor a pagar de cada consumir  cadastrado; Listar o número da conta, o total de KW consumidos e o valor a pagar do consumidor que  mais gastou e o que menos gastou; Mostrar a média de consumo da cidade; Mostrar o número de   consumidores que ultrapassaram o consumo de 170 KW; Armazene as informações em estruturas de vetores e/ou matrizes. Na tela, deve existir um MENU que pergunta ao usuário se ele deseja cadastrar um novo consumidor ou listar alguma informação (maior, menor, média, etc.). 
+
+3. Dizemos que uma matriz quadrada inteira é um quadrado mágico se a soma dos elementos de cada linha, a soma dos elementos de cada coluna e a soma dos elementos das diagonais principal e secundária são todas iguais. Dada uma matriz quadrada dimensão MxM, verifique se ela é um quadrado mágico através de um algoritmo. 
+
+
